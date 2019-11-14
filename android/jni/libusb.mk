@@ -23,6 +23,7 @@ LIBUSB_ROOT_ABS:= $(LOCAL_PATH)/../..
 # libusb
 
 include $(CLEAR_VARS)
+APP_STL := c++_shared
 
 LIBUSB_ROOT_REL:= ../..
 LIBUSB_ROOT_ABS:= $(LOCAL_PATH)/../..

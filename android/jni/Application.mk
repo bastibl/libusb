@@ -22,3 +22,5 @@ APP_ABI := all
 # of shared object in NDK versions at least up to r9.
 #
 APP_LDFLAGS := -llog
+
+APP_STL := c++_shared

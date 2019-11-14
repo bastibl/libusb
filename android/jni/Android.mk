@@ -18,6 +18,8 @@
 
 LOCAL_PATH:= $(call my-dir)
 
+APP_STL := c++_shared
+
 include $(LOCAL_PATH)/libusb.mk
 include $(LOCAL_PATH)/examples.mk
 include $(LOCAL_PATH)/tests.mk
