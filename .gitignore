@@ -1,3 +1,5 @@
+android/libs
+android/obj
 .deps
 .libs
 Makefile
